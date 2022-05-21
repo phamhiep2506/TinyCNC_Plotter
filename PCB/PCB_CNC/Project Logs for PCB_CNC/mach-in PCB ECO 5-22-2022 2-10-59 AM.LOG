@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=NetHX_2 Pin=L1-2
+Removed Pin From Net: NetName=NetHX_3 Pin=L2-2
+Removed Pin From Net: NetName=NetHX_4 Pin=L3-2
+Removed Pin From Net: NetName=NetHX_5 Pin=L4-2
+Removed Pin From Net: NetName=NetHY_2 Pin=L5-2
+Removed Pin From Net: NetName=NetHY_3 Pin=L6-2
+Removed Pin From Net: NetName=NetHY_4 Pin=L7-2
+Removed Pin From Net: NetName=NetHY_5 Pin=L8-2
+Removed Pin From Net: NetName=VCC Pin=R1-2
+Removed Pin From Net: NetName=VCC Pin=R2-2
+Removed Pin From Net: NetName=VCC Pin=R3-2
+Removed Pin From Net: NetName=VCC Pin=R4-2
+Removed Pin From Net: NetName=VCC Pin=R5-2
+Removed Pin From Net: NetName=VCC Pin=R6-2
+Removed Pin From Net: NetName=VCC Pin=R7-2
+Removed Pin From Net: NetName=VCC Pin=R8-2
+Removed Member From Class: ClassName=mach-nguyen-ly Member=L1
+Removed Member From Class: ClassName=mach-nguyen-ly Member=L2
+Removed Member From Class: ClassName=mach-nguyen-ly Member=L3
+Removed Member From Class: ClassName=mach-nguyen-ly Member=L4
+Removed Member From Class: ClassName=mach-nguyen-ly Member=L5
+Removed Member From Class: ClassName=mach-nguyen-ly Member=L6
+Removed Member From Class: ClassName=mach-nguyen-ly Member=L7
+Removed Member From Class: ClassName=mach-nguyen-ly Member=L8
+Removed Member From Class: ClassName=mach-nguyen-ly Member=R1
+Removed Member From Class: ClassName=mach-nguyen-ly Member=R2
+Removed Member From Class: ClassName=mach-nguyen-ly Member=R3
+Removed Member From Class: ClassName=mach-nguyen-ly Member=R4
+Removed Member From Class: ClassName=mach-nguyen-ly Member=R5
+Removed Member From Class: ClassName=mach-nguyen-ly Member=R6
+Removed Member From Class: ClassName=mach-nguyen-ly Member=R7
+Removed Member From Class: ClassName=mach-nguyen-ly Member=R8
+Change Component Comment : Designator=HZ Old Comment=Header 3P VH3.96 Duc Thang New Comment=Header 3P VH3.96
+Change Component Comment : Designator=HX Old Comment=Header 5P 2.54 Duc Thang New Comment=Header 5P 2.54
+Change Component Comment : Designator=HY Old Comment=Header 5P 2.54 Duc Thang New Comment=Header 5P 2.54
+Change Component Description : Designator=HX Old Description=C?m New Description=C?m
+Change Component Description : Designator=HY Old Description=C?m New Description=C?m
+Change Component Description : Designator=HZ Old Description=C?m New Description=C?m
+Change component parameters: Designator = "HX"; Footprint = "XH2.54M-5"; UniqueID = "\BJGJNPLY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001298"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 5P XH2.54-5P Ð?c Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HY"; Footprint = "XH2.54M-5"; UniqueID = "\VMWNGXJM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001298"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 5P XH2.54-5P Ð?c Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HZ"; Footprint = "VH3.96M-3"; UniqueID = "\MWHXFBXO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001292"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 3P XH2.54-3P Ð?c Th?ng"; VariantName = "[No Variations]"

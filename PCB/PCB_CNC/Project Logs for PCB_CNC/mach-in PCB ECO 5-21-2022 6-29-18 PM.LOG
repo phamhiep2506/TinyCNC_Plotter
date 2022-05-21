@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=H? NewDesignator=HX
+Change Component Designator: OldDesignator=H? NewDesignator=HY
+Change Component Designator: OldDesignator=H? NewDesignator=HZ
+Change Net Name : Old Net Name=NetH?_2 New Net Name=NetHX_2
+Change Net Name : Old Net Name=NetH?_3 New Net Name=NetHX_3
+Change Net Name : Old Net Name=NetH?_4 New Net Name=NetHX_4
+Change Net Name : Old Net Name=NetH?_5 New Net Name=NetHX_5
+Added Pin To Net: NetName=NetHY_2 Pin=HY-2
+Added Pin To Net: NetName=NetHY_2 Pin=IC2Y-16
+Added Pin To Net: NetName=NetHY_2 Pin=L5-2
+Added Net: Name=NetHY_2
+Added Pin To Net: NetName=NetHY_3 Pin=HY-3
+Added Pin To Net: NetName=NetHY_3 Pin=IC2Y-15
+Added Pin To Net: NetName=NetHY_3 Pin=L6-2
+Added Net: Name=NetHY_3
+Added Pin To Net: NetName=NetHY_4 Pin=HY-4
+Added Pin To Net: NetName=NetHY_4 Pin=IC2Y-14
+Added Pin To Net: NetName=NetHY_4 Pin=L7-2
+Added Net: Name=NetHY_4
+Added Pin To Net: NetName=NetHY_5 Pin=HY-5
+Added Pin To Net: NetName=NetHY_5 Pin=IC2Y-13
+Added Pin To Net: NetName=NetHY_5 Pin=L8-2
+Added Net: Name=NetHY_5
+Added Member To Class: ClassName=mach-nguyen-ly Member=Component HX Header 5P 2.54 Duc Thang
+Added Member To Class: ClassName=mach-nguyen-ly Member=Component HY Header 5P 2.54 Duc Thang
+Added Member To Class: ClassName=mach-nguyen-ly Member=Component L6 LED 5mm
+Added Member To Class: ClassName=mach-nguyen-ly Member=Component R7 5.6k
