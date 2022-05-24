@@ -1,0 +1,2 @@
+Change Component DesignItemId : Designator=HZ Old DesignItemId=Header 3P VH3.96 Duc Thang New DesignItemId=Header 3P 2.54 Duc Thang
+Change Component Footprint: Designator=HZ Old Footprint=VH3.96M-3 New Footprint=XH2.54M-3
